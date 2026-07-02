@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `ESP35_1m.csv` (87,463 rows, `2025-12-29` → `2026-06-27`). **Full archive on [ork.ad](https://ork.ad/)** — **2,569,418** `1m` rows (~134.36 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-27`.
+> **Sample on GitHub** · `ESP35_1m.csv` (87,463 rows, `2025-12-29` → `2026-06-27`). **Full archive on [ork.ad](https://ork.ad/)** — **2,569,418** `1m` rows (~144.17 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-27`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/esp35-1m-ohlcv-index-hist
 | Instrument | Spain 35 Index · Stock index | Spain 35 Index · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 87,463 | **2,569,418** |
-| Size | 4.99 MB | ~134.36 MB |
+| Size | 4.99 MB | ~144.17 MB |
 | Period | `2025-12-29` → `2026-06-27` | `2009-03-11` → `2026-06-27` |
 | File | `ESP35_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
