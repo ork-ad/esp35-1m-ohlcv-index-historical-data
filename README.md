@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `ESP35_1m.csv` (87,463 rows, `2025-12-29` → `2026-06-27`). **Full archive on [ork.ad](https://ork.ad/)** — **2,569,418** `1m` rows (~144.17 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-27`.
+> **Sample on GitHub** · `ESP35_1m.csv` (87,829 rows, `2026-01-05` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **2,569,418** `1m` rows (~144.17 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-27`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/esp35-1m-ohlcv-index-hist
 |---|--:|---|
 | Instrument | Spain 35 Index · Stock index | Spain 35 Index · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 87,463 | **2,569,418** |
-| Size | 4.99 MB | ~144.17 MB |
-| Period | `2025-12-29` → `2026-06-27` | `2009-03-11` → `2026-06-27` |
+| 1m rows | 87,829 | **2,569,418** |
+| Size | 5.36 MB | ~144.17 MB |
+| Period | `2026-01-05` → `2026-07-02` | `2009-03-11` → `2026-06-27` |
 | File | `ESP35_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`ESP35_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-29T07:01:00Z | 17205.6 | 17210.61 | 17205.6 | 17210.61 | 6 |
-| 2025-12-29T07:02:00Z | 17210.61 | 17213.62 | 17210.61 | 17213.1 | 7 |
-| 2025-12-29T07:03:00Z | 17213.1 | 17213.1 | 17200.6 | 17200.6 | 8 |
-| 2025-12-29T07:04:00Z | 17200.6 | 17200.6 | 17183.6 | 17192.61 | 13 |
-| 2025-12-29T07:05:00Z | 17192.61 | 17193.6 | 17192.6 | 17193.6 | 2 |
+| 2026-01-05T07:01:00Z | 17474.035 | 17631.086 | 17474.035 | 17614.596 | 13 |
+| 2026-01-05T07:02:00Z | 17614.596 | 17614.596 | 17598.076 | 17600.086 | 21 |
+| 2026-01-05T07:03:00Z | 17600.086 | 17600.086 | 17583.096 | 17587.076 | 12 |
+| 2026-01-05T07:04:00Z | 17587.076 | 17594.596 | 17587.076 | 17591.076 | 11 |
+| 2026-01-05T07:05:00Z | 17591.076 | 17591.076 | 17572.076 | 17586.076 | 13 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T17:56:00Z | 19407.31 | 19407.31 | 19394.81 | 19396.30 | 28.00 |
-| 2026-06-26T17:57:00Z | 19396.30 | 19396.79 | 19389.30 | 19391.31 | 18.00 |
-| 2026-06-26T17:58:00Z | 19391.31 | 19395.79 | 19391.29 | 19395.79 | 3.00 |
-| 2026-06-26T17:59:00Z | 19395.79 | 19398.79 | 19391.31 | 19391.31 | 4.00 |
+| 2026-07-02T17:55:00Z | 19627.03 | 19627.03 | 19619.03 | 19619.03 | 8.00 |
+| 2026-07-02T17:56:00Z | 19619.03 | 19620.05 | 19619.03 | 19620.03 | 8.00 |
+| 2026-07-02T17:58:00Z | 19620.03 | 19620.04 | 19620.03 | 19620.03 | 5.00 |
+| 2026-07-02T17:59:00Z | 19620.03 | 19625.55 | 19620.03 | 19625.55 | 4.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **ESP35** archive on **[ork.ad](https://ork.ad/)** includes **13 OH
 **[→ Get the full ESP35 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · ESP35 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · ESP35 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
